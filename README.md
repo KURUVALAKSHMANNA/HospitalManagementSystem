@@ -1,0 +1,131 @@
+# 🏥 Hospital Management System – Java Console Application
+
+A **Hospital Management System** is a console-based Java application designed to manage basic hospital operations such as patient registration, doctor information, appointment booking, appointment tracking, and billing.
+
+This project is developed using **Core Java** and follows a clean architecture with separate packages for **model, service, exception, and main application logic**. It is suitable for beginners and freshers who want to showcase Java fundamentals with a real-world project.
+
+---
+
+## 📌 Project Overview
+
+In hospitals, managing patient details, doctor availability, appointments, and billing manually can be time-consuming.  
+This project provides a simple digital solution where hospital staff can manage patients, doctors, appointments, and bills through a menu-driven console application.
+
+The application focuses on:
+
+- Clean Java coding practice
+- Object-Oriented Programming
+- Real-world hospital workflow
+- Service-based architecture
+- Exception handling
+- Beginner-friendly backend logic
+
+---
+
+## 🎯 Project Objective
+
+The main objective of this project is to build a Java-based hospital management application that can handle common hospital operations in a structured and efficient way.
+
+This project helps in understanding how real-world requirements can be converted into Java classes, objects, methods, and business logic.
+
+---
+
+## ✨ Key Features
+
+### 🧑‍⚕️ 1. Patient Management
+
+- Add new patient details
+- Auto-generate patient ID
+- Store patient name, age, and disease information
+- View all registered patients
+- Search patient details using patient ID
+
+---
+
+### 👨‍⚕️ 2. Doctor Management
+
+- Display available doctor details
+- Show doctor ID, doctor name, specialization, and consultation fee
+- Help patients choose the correct doctor based on specialization
+
+Example doctor specializations:
+
+- General Physician
+- Cardiologist
+- Orthopedic
+- Dermatologist
+- Pediatrician
+
+---
+
+### 📅 3. Appointment Booking
+
+- Book appointment using patient ID and doctor ID
+- Auto-generate appointment ID
+- Link patient details with doctor details
+- View all booked appointments
+- Display appointment information in a simple format
+
+---
+
+### 💰 4. Billing System
+
+- Generate bill based on patient ID
+- Include consultation fee
+- Include medicine fee
+- Include service charge
+- Calculate total bill amount
+- Display bill details clearly
+
+---
+
+### ⚠️ 5. Exception Handling
+
+- Custom exception handling for invalid patient ID
+- Prevents application crash
+- Shows user-friendly error messages
+- Improves application reliability
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology       | Purpose                                   |
+| ---------------- | ----------------------------------------- |
+| Java             | Main programming language                 |
+| Core Java        | Application development                   |
+| OOP              | Code structure and reusability            |
+| ArrayList        | Store patients, doctors, and appointments |
+| Scanner          | Take user input                           |
+| Custom Exception | Handle invalid patient search             |
+| Console UI       | User interaction                          |
+
+---
+
+## ✅ Conclusion
+
+The **Hospital Management System** is a beginner-friendly Java console application that demonstrates how real-world hospital operations can be managed using Core Java concepts.
+
+This project includes important features like patient registration, doctor details, appointment booking, appointment viewing, and bill generation. It also follows a clean package structure with separate model, service, exception, and main layers.
+
+By developing this project, I improved my understanding of **Object-Oriented Programming, ArrayList, Exception Handling, Menu-Driven Programming, and Layered Architecture**.
+
+This project is a strong foundation for future improvements like database integration, login authentication, GUI development, and Spring Boot web application development.
+
+> “Building small real-world projects is the first step toward becoming a strong Java developer.” 🚀
+
+---
+
+## 👨‍💻 Author
+
+Lakshmanna K
+Final Year BTech CSE Student
+Aspiring Java Backend Developer
+
+## 🌐 GitHub
+
+https://github.com/KURUVALAKSHMANNA/HospitalManagementSystem
+
+## Quote
+
+“This project is a small step toward solving real-world hospital management problems using Java.” 💻🏥
