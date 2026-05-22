@@ -102,20 +102,6 @@ Example doctor specializations:
 
 ---
 
-## ✅ Conclusion
-
-The **Hospital Management System** is a beginner-friendly Java console application that demonstrates how real-world hospital operations can be managed using Core Java concepts.
-
-This project includes important features like patient registration, doctor details, appointment booking, appointment viewing, and bill generation. It also follows a clean package structure with separate model, service, exception, and main layers.
-
-By developing this project, I improved my understanding of **Object-Oriented Programming, ArrayList, Exception Handling, Menu-Driven Programming, and Layered Architecture**.
-
-This project is a strong foundation for future improvements like database integration, login authentication, GUI development, and Spring Boot web application development.
-
-> “Building small real-world projects is the first step toward becoming a strong Java developer.” 🚀
-
----
-
 ## 👨‍💻 Author
 
 Lakshmanna K
