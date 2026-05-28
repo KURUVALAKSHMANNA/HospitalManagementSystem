@@ -102,16 +102,33 @@ Example doctor specializations:
 
 ---
 
-## 👨‍💻 Author
-
-Lakshmanna K
-Final Year BTech CSE Student
-Aspiring Java Backend Developer
-
-## 🌐 GitHub
+## 🌐 GitHub Repo
 
 https://github.com/KURUVALAKSHMANNA/HospitalManagementSystem
 
-## Quote
+---
 
-“This project is a small step toward solving real-world hospital management problems using Java.” 💻🏥
+## 👨‍💻 Author
+
+**Lakshmanna K**
+Recently graduated with a **BTech in Computer Science and Engineering**
+Aspiring **Java Backend Developer / Software Developer / Full Stack Developer**
+
+---
+
+## 🔗 Connect With Me
+
+**GitHub:**
+https://github.com/KURUVALAKSHMANNA
+
+**LinkedIn:**
+https://www.linkedin.com/in/lakshmanna-kuruva-749250334/
+
+**Email:**
+[kuruvalakshmanna4154@gmail.com](mailto:kuruvalakshmanna4154@gmail.com)
+
+---
+
+## 💡 Quote
+
+⭐ *This project is part of my learning journey to improve my Java programming, OOP concepts, and real-world backend project development skills.*
